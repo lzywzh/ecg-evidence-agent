@@ -1,0 +1,14 @@
+{
+  "source_key": "synthetic.ecg-terms.v1",
+  "institution": "合成数据实验室",
+  "title": "合成心电术语检索样例",
+  "source_type": "synthetic",
+  "version": "1.0",
+  "published_date": "2026-09-17",
+  "source_uri": "data/synthetic/terminology.md",
+  "retrieved_at": "2026-09-17",
+  "scope": "仅用于测试检索、引用和缺失证据处理，不表达医学定义",
+  "usage_terms": "项目自建合成数据，可随教学代码分发",
+  "redistributable": true,
+  "is_synthetic": true
+}
